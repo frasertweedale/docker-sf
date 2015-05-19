@@ -1,5 +1,6 @@
-This container provides a Proof General environment and the Software
-Foundations sources, ready for you to begin your automated theorem
+This container provides a Proof General environment and the
+[Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+sources, ready for you to begin your automated theorem
 proving and certified programming adventure!
 
 See the
@@ -31,5 +32,5 @@ activated via the menu:
     File > Open File
 
 This container runs Emacs directly, so there is no shell and no job
-control.  You can open a interactive shell inside Emacs via `M-x
-shell`.
+control.  You can open a interactive shell inside Emacs via
+`M-x shell`.
